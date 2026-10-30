@@ -49,7 +49,7 @@ def organize_jpg_files(source_folder, destination_folder):
 
 # Main program
 print("===================================")
-print("      TASK AUTOMATION")
+print("     CODEALPHA TASK AUTOMATION")
 print("===================================")
 
 source = input("Enter source folder path: ")
